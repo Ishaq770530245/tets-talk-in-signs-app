@@ -57,21 +57,10 @@ Python (باستخدام Flask أو FastAPI)
 الاتصال بـ TensorFlow أو PyTorch لتشغيل نماذج التعلم العميق.
 
 ![image](https://github.com/user-attachments/assets/3be913c1-c9bc-40af-af96-741205b717a3)
-
-تسجيل حساب :
 ![image](https://github.com/user-attachments/assets/0116bde9-7dbd-41af-b71f-e6f0f9d391b2)
-
 ![image](https://github.com/user-attachments/assets/60cd8e4e-f4e4-4238-b3fd-2ca6c12e830b)
-
-من نصوص الى اشاارت مرئية :
 ![image](https://github.com/user-attachments/assets/f647a8bf-7a00-43c1-ae6f-1ffa2a7f32d9)
-
- الصفحة التعلمية:
  ![image](https://github.com/user-attachments/assets/c8981462-c2d3-4e38-bba8-33eda55b9416)
-
-من صوت الى اشارات مرئية:
 ![image](https://github.com/user-attachments/assets/0529684f-1d04-40d0-b85e-e677917e4992)
 ![image](https://github.com/user-attachments/assets/2ebe4991-f3c8-4a4e-ae11-a4b4e66592b1)
-
-فهرس التطبيق :
 ![image](https://github.com/user-attachments/assets/92458a3c-28f0-46cd-b451-b7639d347be4)
